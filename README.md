@@ -1,4 +1,21 @@
 # BackupManager - automaticaly makes backups and put in selected folder.
+
+<--><--><--><--><--><--><-->
+
+Hotkeys: 
+
+F5 - Create backup
+
+F9 - Open settings file Settings.ini
+
+F10 - Show current settings
+
+F1 - Show help file
+
+Ctrl + C - Exit program
+
+<--><--><--><--><--><--><-->
+
 Example of Setting.ini:
 
 [Paths]
